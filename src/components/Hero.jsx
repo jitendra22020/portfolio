@@ -11,7 +11,7 @@ const Hero = () => {
         <h1 className='text-2xl md:text-4xl lg:text-6xl mb-0 md:-ml-1 font-bold'>Jitendra</h1>
         <h3 className='text-base md:text-x1 lg:text-2xl text-green-600'>Web developer</h3>
         <p className='text-sm md:text-lg lg:text-xl tracking-tighter'>
-            Lorem ipsum dolor sit amet consectetur adipisicing Illo, debitis commodi ab error modi quia deleniti ullam consequatur a voluptatem quibusdam natus. Sed dolorem dolorum, beatae aspernatur asperiores aut atque.
+        Looking to utilize technology and leadership skills in an esteemed organization". Where I can utilize my skills and enhance learning in the field of work capable of mastering new technologies
         </p>
         <div className='flex items-center justify-center md:justify-start gap-4 mt-5' >
             <button className='bg-yellow-500 px-10 py-1 rounded-lg mr-4 hover:bg-yellow-400 duration-200'>Hire me</button>

@@ -16,7 +16,7 @@ function About() {
         <div className='px-5 w-full md:w-1/2 md:pl-12'>
           <h3 className='text-yellow-500 font-semibold text-lg uppercase mb-4'>A Bit</h3>
           <h2 className='text-4xl md:text-6xl font-bold text-gray-800 mb-6'>About me</h2>
-          <p className='text-gray-600 mb-6'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus, excepturi asperiores. Est rem quidem voluptatibus ipsum aspernatur. Nobis explicabo autem at facere doloribus atque voluptatibus impedit, alias, quas neque eos.</p>
+          <p className='text-gray-600 mb-6'> Looking to utilize technology and leadership skills in an esteemed organization". Where I can utilize my skills and enhance learning in the field of work capable of mastering new technologies.</p>
 
           <div className='flex flex-wrap mb-6'>
             <div className='flex items-center w-1/2 mb-4 '>
